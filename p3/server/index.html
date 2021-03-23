@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+    </title>
+    <script>
+        function myFunction() {
+          document.getElementById("demo").innerHTML = "Paragraph changed.";
+        }
+        </script>
+</head>
+
+<body>
+    <div style="width: 95%">
+  <table style="width:100%; border-collapse: collapse; display: block" >
+    <tr>
+        {{range $index, $element := .}}
+        <td align="center" valign="middle">
+            <div style="width: 350px; overflow:hidden">
+                <a href="/{{$element.Sig}}"> {{$element.Name}}</a>
+                <br>
+                <img src="data:image/jpg;base64,{{$element.Data}}"  alt={{$element.Name}} style="width:300px; "/>
+                <div>
+            </td>
+        {{end}}
+    </tr>
+
+</table>
+</div>
+
+</body>
+</html>

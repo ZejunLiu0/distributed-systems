@@ -1,0 +1,15 @@
+0 chunks, 0 total bytes
+0 chunks, 0 total bytes
+sha256_32_5D7WN6C6A6BYBSL3WKQGWK7NNFRWRMO67JJIJHIECU3AVDOOFMQQ====
+sha256_32_6WGZVNCUR4VVFNNICKFCMKYDU5RDNLLQC343JGYUKYZTFJFJJIRQ====
+sync took 301 requests, 1256981 bytes, pulled 138 chunks
+sync took 7 requests, 14155 bytes, pulled 2 chunks
+sync took 1 requests, 3251 bytes, pulled 0 chunks
+sync took 1 requests, 3251 bytes, pulled 0 chunks
+Common subdirectories: xd/y and ../../p1/sampledir/y
+sha256_32_5D7WN6C6A6BYBSL3WKQGWK7NNFRWRMO67JJIJHIECU3AVDOOFMQQ====
+sha256_32_6WGZVNCUR4VVFNNICKFCMKYDU5RDNLLQC343JGYUKYZTFJFJJIRQ====
+sync took 139 requests, 1047189 bytes, pulled 138 chunks
+sync took 3 requests, 14561 bytes, pulled 2 chunks
+sync took 1 requests, 12109 bytes, pulled 0 chunks
+sync took 1 requests, 12109 bytes, pulled 0 chunks

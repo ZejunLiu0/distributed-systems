@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ebedf90-441e-45e2-960c-82dc037373e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/config.txt2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/config.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raft/loadConfig.go" beforeDir="false" afterPath="$PROJECT_DIR$/raft/loadConfig.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raft/raft.go" beforeDir="false" afterPath="$PROJECT_DIR$/raft/raft.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jiBB31pCrrKfu5VqvFvncQ24Bd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go -D 1 -r 1,2,3">
+    <configuration name="client cmd debug" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="solution" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <parameters value="-d -c CMDz" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/client.go" />
+      <package value="gitlab.cs.umd.edu/cmsc818eFall20/cmsc818e-keleher/raft/solution" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go -D 1 -r 1,2,3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="solution" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value=" -D 1 -r 1,2,3" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="gitlab.cs.umd.edu/cmsc818eFall20/cmsc818e-keleher/raft/solution" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="local1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="solution" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="-r local1 -D 9" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="gitlab.cs.umd.edu/cmsc818eFall20/cmsc818e-keleher/raft/solution" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.client cmd debug" />
+      <item itemvalue="Go Build.local1" />
+      <item itemvalue="Go Build.go build main.go -D 1 -r 1,2,3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go -D 1 -r 1,2,3" />
+        <item itemvalue="Go Build.local1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ebedf90-441e-45e2-960c-82dc037373e6" name="Default Changelist" comment="" />
+      <created>1604276893013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604276893013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="108" y="392" width="1071" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605545015163">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="108" y="392" width="1071" height="703" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.2560.1415@0.25.2560.1415" timestamp="1605545015163" />
+    <state width="1226" height="397" key="GridCell.Tab.0.bottom" timestamp="1606668613212">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1848" height="402" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1605109189468" />
+    <state width="1226" height="397" key="GridCell.Tab.0.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1606668613212" />
+    <state width="1226" height="397" key="GridCell.Tab.0.center" timestamp="1606668613212">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1848" height="402" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1605109189467" />
+    <state width="1226" height="397" key="GridCell.Tab.0.center/0.25.2560.1415@0.25.2560.1415" timestamp="1606668613212" />
+    <state width="1226" height="397" key="GridCell.Tab.0.left" timestamp="1606668613211">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1848" height="402" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1605109189467" />
+    <state width="1226" height="397" key="GridCell.Tab.0.left/0.25.2560.1415@0.25.2560.1415" timestamp="1606668613211" />
+    <state width="1226" height="397" key="GridCell.Tab.0.right" timestamp="1606668613212">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1848" height="402" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1605109189468" />
+    <state width="1226" height="397" key="GridCell.Tab.0.right/0.25.2560.1415@0.25.2560.1415" timestamp="1606668613212" />
+    <state width="1226" height="397" key="GridCell.Tab.1.bottom" timestamp="1606668613336">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1226" height="399" key="GridCell.Tab.1.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1605109189462" />
+    <state width="1226" height="397" key="GridCell.Tab.1.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1606668613336" />
+    <state width="1226" height="397" key="GridCell.Tab.1.center" timestamp="1606668613335">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1226" height="399" key="GridCell.Tab.1.center/0.23.2560.1417@0.23.2560.1417" timestamp="1605109189462" />
+    <state width="1226" height="397" key="GridCell.Tab.1.center/0.25.2560.1415@0.25.2560.1415" timestamp="1606668613335" />
+    <state width="1226" height="397" key="GridCell.Tab.1.left" timestamp="1606668613335">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1226" height="399" key="GridCell.Tab.1.left/0.23.2560.1417@0.23.2560.1417" timestamp="1605109189461" />
+    <state width="1226" height="397" key="GridCell.Tab.1.left/0.25.2560.1415@0.25.2560.1415" timestamp="1606668613335" />
+    <state width="1226" height="397" key="GridCell.Tab.1.right" timestamp="1606668613336">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1226" height="399" key="GridCell.Tab.1.right/0.23.2560.1417@0.23.2560.1417" timestamp="1605109189462" />
+    <state width="1226" height="397" key="GridCell.Tab.1.right/0.25.2560.1415@0.25.2560.1415" timestamp="1606668613336" />
+    <state x="493" y="470" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606153991951">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="493" y="469" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.2560.1417@0.23.2560.1417" timestamp="1604843809031" />
+    <state x="493" y="470" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.2560.1415@0.25.2560.1415" timestamp="1606153991951" />
+    <state x="309" y="353" key="search.everywhere.popup" timestamp="1605545087945">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="309" y="353" key="search.everywhere.popup/0.25.2560.1415@0.25.2560.1415" timestamp="1605545087945" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/raft/loadConfig.go</url>
+          <line>97</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/raft/loadConfig.go</url>
+          <line>147</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="replicas" language="go" />
+        <watch expression="mepid" language="go" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+go run main.go put blah
+go run main.go get sha256_32_O6PHHD2HPJZ3SQMCHFTNUKFPHDBNFW4X44C7B7CCOHB3BL7AZLHQ==== blah2
+diff blah blah2
+ls -CF sampledir/
+ls -l sampledir/y/immutability.pdf 
+go run main.go put sampledir
+go run main.go get sha256_32_H2RO3PVNZVREQ26MUXSMMT3YQPJKK47FEAQE3DSPSMWQBRB2NSJQ==== sampledir2
+diff sampledir sampledir2
+go run main.go desc sha256_32_H2RO3PVNZVREQ26MUXSMMT3YQPJKK47FEAQE3DSPSMWQBRB2NSJQ====
+go run main.go desc sha256_32_UWJB2UOE5SOHYSIBA75KFMO5HPYIMEHNBYYGNFFF4LQFAW4HES3A====
+go run main.go desc sha256_32_NSPKNSDFSJAKASQAOYECA26XYKZMCA4J5NHHIZZL3Y6EKFBLYCUQ====
+go run main.go desc sha256_32_J2DGOPLWKPVVS2GTVZZRZIT6S5AJUXLPFEJM4XX7OXZAPCA5ATFQ====
